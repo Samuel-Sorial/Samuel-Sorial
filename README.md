@@ -88,13 +88,6 @@ Racket                   1 repo              █░░░░░░░░░░�
 Game Maker Language      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
 
 ```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/Samuel-Sorial/Samuel-Sorial/main/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
 
 ---
