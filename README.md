@@ -23,13 +23,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-sorial&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.5%20million%20lines%20of%20code-blue)
-
 **🐱 My Github Data** 
 
-> 🏆 166 Contributions in the Year 2021
+> 🏆 172 Contributions in the Year 2021
  > 
-> 📦 197.6 kB Used in Github's Storage 
+> 📦 197.7 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
