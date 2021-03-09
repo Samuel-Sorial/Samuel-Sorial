@@ -12,18 +12,9 @@
 - 🏦 I'm currently working as a freelance software developer at Upwork
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 I use daily ```Node.js```,```Express```, ```React.js```, ```React Native```, ,```SQL```, ```MongoDB```
-- 🌱 I’m currently learning docker, database physical layer, and .Net framework
+- 🌱 I’m currently learning docker, database physical layer, distribued systems, and .Net framework
 - 📝 I regulary write articles on [hashnode](https://samuelsorial.tech/)
 - ⚡ Fun fact: I don't like dynamically typed languages!
-
-<p align="center">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="60"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="HEROKU" width="35" height="35"/> 
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
-</p>
 
 ---
 ### 🐱My Github stats:
@@ -37,11 +28,11 @@
 
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Containerize your web application & deploy it on Kubernetes](https://apoorvtyagi.tech/containerize-your-web-application-and-deploy-it-on-kubernetes)
-- [Having a go at common NLP tasks using TextBlob](https://apoorvtyagi.tech/nlp-textblob)
-- [Tail recursion in python 🐍](https://apoorvtyagi.tech/tail-recursion-in-python)
-- [scp command in Linux 💻](https://apoorvtyagi.tech/scp-command-in-linux)
-- [Different ways to authenticate your APIs](https://apoorvtyagi.tech/different-ways-to-authenticate-your-apis)
+- [Quorum Consensus](https://samuelsorial.tech/quorum-consensus)
+- [Deadlock prevention & necessary conditions to occur](https://samuelsorial.tech/deadlock-prevention-and-necessary-conditions-to-occur)
+- [Mesa VS Hoare semantics](https://samuelsorial.tech/mesa-vs-hoare-semantics)
+- [An introduction to OAuth 2.0](https://samuelsorial.tech/an-introduction-to-oauth-20)
+- [Thread Abstraction](https://samuelsorial.tech/thread-abstraction)
 <!-- BLOG-POST-LIST:END -->
 ---
 
@@ -49,6 +40,6 @@
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 ----
+
 Credit: [Apoorv Tyagi](https://github.com/ApoorvTyagi)
 
-Last Edited on: 26/11/2020
