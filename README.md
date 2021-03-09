@@ -14,7 +14,7 @@
 - ⚡ I use daily ```Node.js```,```Express```,```React.js```,```React Native```,```SQL```, ```MongoDB```
 - 🌱 I’m currently learning docker, database physical layer, distribued systems, and .Net framework
 - 📝 I regulary write articles on [hashnode](https://samuelsorial.tech/)
-- 🤔 Fun fact: I don't like dynamically typed languages!
+- 🤔 Fun fact: I don't like dynamica & weakly typed languages!
 
 ---
 ### 🐱My Github stats:
