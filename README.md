@@ -2,7 +2,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/samuel-sorial/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="samuel_linkedin" height="20" width="20" /></a>&nbsp;
 <a href="https://stackoverflow.com/users/13089670/samuel-sorial"><img align="center" alt="Samuel Sorial stack over flow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" /></a>
-<a href="https://www.upwork.com/freelancers/~01a3762e1417e0fa35" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/upwork.svg" alt="samuel_sorial blog" height="20" width="20" /></a>
 <a href="https://twitter.com/samolaaaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="samuel_twitter" height="20" width="20" /></a>&nbsp;
 </p>
 
