@@ -22,9 +22,75 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-sorial&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.5%20million%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 166 Contributions in the Year 2021
+ > 
+> 📦 197.6 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 14 Public Repositories 
+ > 
+> 🔑 2 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
 ```text
-No Activity tracked this Week
+🌞 Morning    30 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.65% 
+🌆 Daytime    49 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.23% 
+🌃 Evening    229 commits    ██████████░░░░░░░░░░░░░░░   43.13% 
+🌙 Night      223 commits    ██████████░░░░░░░░░░░░░░░   42.0%
+
 ```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       96 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.08% 
+Tuesday      49 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.23% 
+Wednesday    88 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.57% 
+Thursday     123 commits    █████░░░░░░░░░░░░░░░░░░░░   23.16% 
+Friday       52 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.79% 
+Saturday     48 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.04% 
+Sunday       75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.12%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Africa/Cairo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               7 repos             ███████████░░░░░░░░░░░░░░   43.75% 
+Java                     4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
+Racket                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
+Game Maker Language      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
+
+```
+
+
+
 <!--END_SECTION:waka-->
 
 ---
