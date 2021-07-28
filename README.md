@@ -12,7 +12,7 @@
 - 🏦 I'm currently working as a backend software engineer at [Garment IO](https://garment.io)
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - ⚡ I use daily ```Node.js```,```Express```,```React.js```,```React Native```,```SQL```, ```MongoDB```
-- 🌱 I’m currently learning docker, database physical layer, distribued systems, and .Net framework
+- 🌱 I’m currently learning docker, database physical layer, distribued systems, Java and Spring.
 - 📝 I regulary write articles on [hashnode](https://samuelsorial.tech/)
 - 🤔 Fun fact: I don't like dynamic & weakly typed languages!
 
