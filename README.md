@@ -25,7 +25,7 @@
 
 > 🏆 156 Contributions in the Year 2021
  > 
-> 📦 205.8 kB Used in GitHub's Storage 
+> 📦 205.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -62,16 +62,16 @@ Sunday       12 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-JavaScript               5 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-digital-apace-api        5 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    5 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -88,7 +88,7 @@ Ruby                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2021
+ Last Updated on 23/10/2021
 <!--END_SECTION:waka-->
 
 ---
