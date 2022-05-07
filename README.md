@@ -21,6 +21,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-sorial&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 **🐱 My GitHub Data** 
 
 > 🏆 2 Contributions in the Year 2022
@@ -88,7 +90,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/05/2022 18:47:29 UTC
+ Last Updated on 07/05/2022 18:44:24 UTC
 <!--END_SECTION:waka-->
 
 ---
