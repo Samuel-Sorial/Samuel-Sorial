@@ -21,7 +21,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-sorial&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **🐱 My GitHub Data** 
 
@@ -90,7 +90,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/05/2022 18:47:08 UTC
+ Last Updated on 12/05/2022 18:50:05 UTC
 <!--END_SECTION:waka-->
 
 ---
