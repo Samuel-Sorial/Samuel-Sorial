@@ -21,7 +21,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-sorial&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-365%20hrs%205%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -90,7 +90,7 @@ Racket                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/08/2022 18:44:20 UTC
+ Last Updated on 17/08/2022 18:48:27 UTC
 <!--END_SECTION:waka-->
 
 ---
