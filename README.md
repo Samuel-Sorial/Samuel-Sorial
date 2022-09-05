@@ -21,7 +21,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-sorial&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-365%20hrs%205%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -35,6 +35,48 @@
  > 
 > 🔑 2 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+🌆 Daytime    6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.38% 
+🌃 Evening    32 commits     █████░░░░░░░░░░░░░░░░░░░░   23.36% 
+🌙 Night      99 commits     ██████████████████░░░░░░░   72.26%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.11% 
+Tuesday      24 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.52% 
+Wednesday    41 commits     ███████░░░░░░░░░░░░░░░░░░   29.93% 
+Thursday     31 commits     █████░░░░░░░░░░░░░░░░░░░░   22.63% 
+Friday       25 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.25% 
+Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Sunday       9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.57%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Africa/Cairo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -48,7 +90,7 @@ Racket                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2022 18:45:30 UTC
+ Last Updated on 05/09/2022 18:49:04 UTC
 <!--END_SECTION:waka-->
 
 ---
