@@ -10,8 +10,8 @@
 ### 🤵 About Me:
 - 🏦 I'm currently working as a backend software engineer at [Turbulent](https://turbulent.ca)
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- ⚡ I use daily ```Node.js```,```Express```,```React.js```,```React Native```,```SQL```, ```MongoDB```
-- 🌱 I’m currently learning docker, database physical layer, distribued systems, Java and Spring.
+- ⚡ I use daily ```Node.js```,```Typescript```, ```gRPC```,```Kafka```,```SQL DBMS```, ```NoSQL DBMS```
+- 🌱 I’m currently learning distributed systems, Golang, and information retrieval.
 - 📝 I regulary write articles on [hashnode](https://samuelsorial.tech/)
 - 🤔 Fun fact: I don't like dynamic & weakly typed languages!
 
