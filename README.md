@@ -79,10 +79,10 @@ No Activity Tracked This Week
 
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Quorum Consensus](https://samuelsorial.tech/quorum-consensus)
-- [Deadlock prevention & necessary conditions to occur](https://samuelsorial.tech/deadlock-prevention-and-necessary-conditions-to-occur)
-- [Mesa VS Hoare semantics](https://samuelsorial.tech/mesa-vs-hoare-semantics)
-- [An introduction to OAuth 2.0](https://samuelsorial.tech/an-introduction-to-oauth-20)
+- [Design of fault tolerant virtual machines](https://samuelsorial.tech/design-of-fault-tolerant-virtual-machines)
+- [Query Optimization - DB Internals](https://samuelsorial.tech/query-optimization)
+- [Query Execution - Aggregations](https://samuel-sorial.hashnode.dev/query-execution-aggregations)
+- [Query Execution - Joins](https://samuel-sorial.hashnode.dev/query-execution-joins)
 - [Thread Abstraction](https://samuelsorial.tech/thread-abstraction)
 <!-- BLOG-POST-LIST:END -->
 ---
