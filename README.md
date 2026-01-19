@@ -16,7 +16,7 @@ Hi there! I'm Samuel Sorial, a backend software engineer at [Turbulent](https://
 - Expanding my knowledge in distributed systems, Golang, and information retrieval.
 - Worked in different industries, for example clothing factories management, financial solutions, game backend development.
 
-📝 You can find my articles on [hashnode](https://samuelsorial.tech/), where I share insights and experiences from my journey in software development.
+📝 You can find my articles on [hashnode](https://samuel-sorial.hashnode.dev/), where I share insights and experiences from my journey in software development.
 
 🤔 Fun fact: I have a strong preference for statically typed languages over dynamic and weakly typed ones!
 
@@ -79,11 +79,11 @@ No Activity Tracked This Week
 
 ### 📕 My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Design of fault tolerant virtual machines](https://samuelsorial.tech/design-of-fault-tolerant-virtual-machines)
-- [Query Optimization - DB Internals](https://samuelsorial.tech/query-optimization)
+- [Design of fault tolerant virtual machines](https://samuel-sorial.hashnode.dev/design-of-fault-tolerant-virtual-machines)
+- [Query Optimization - DB Internals](https://samuel-sorial.hashnode.dev/query-optimization)
 - [Query Execution - Aggregations](https://samuel-sorial.hashnode.dev/query-execution-aggregations)
 - [Query Execution - Joins](https://samuel-sorial.hashnode.dev/query-execution-joins)
-- [Thread Abstraction](https://samuelsorial.tech/thread-abstraction)
+- [Thread Abstraction](https://samuel-sorial.hashnode.dev/thread-abstraction)
 <!-- BLOG-POST-LIST:END -->
 ---
 
