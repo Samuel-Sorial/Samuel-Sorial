@@ -9,7 +9,7 @@
 
 ### 🤵 About Me:
 
-Hi there! I'm Samuel Sorial, a backend software engineer at [Turbulent](https://turbulent.ca). 
+Hi there! I'm Samuel Sorial, a backend software engineer at [Cloud Imperium Games](https://cloudimperiumgames.com/). 
 
 🏦 Currently, I'm focused on:
 - Working with technologies like `Node.js`, `Typescript`, `gRPC`, `Kafka`, `SQL DBMS`, and `NoSQL DBMS`.
