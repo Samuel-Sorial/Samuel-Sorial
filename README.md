@@ -4,10 +4,10 @@ Senior Backend Developer at [Cloud Imperium Games](https://cloudimperiumgames.co
 
 ## Selected work
 
+- **~9 million updates per day:** Implemented Kafka change data capture flows into **2 downstream data stores**, keeping downstream processing off the hot path.
+- **3,000 concurrent sagas:** Built a BullMQ and Redis framework with custom sharding, retries, and compensating actions for partial failures.
 - Designed sharded backend services and distributed storage patterns for large, write-heavy workloads.
-- Built Kafka event flows and change data capture pipelines processing about 9 million updates a day across two downstream data stores.
 - Led a migration to Redis Cluster across multiple services, adapting access patterns for sharding and horizontal scaling.
-- Built a BullMQ and Redis saga framework supporting 3,000 concurrent workflows with retries and compensating actions.
 - Designed geospatial access patterns with PostGIS and Redis GEO for high-concurrency proximity queries.
 
 ## Experience and tools
